@@ -4,11 +4,11 @@ public class Encapsule_class {
 	private long accno;
 	private String accname;
 	
-	public long getAccno()
+	public long getAccno() //used to get the values
 	{
 		return accno;
 	}
-	public void setAccno(long accno)
+	public void setAccno(long accno) //used to set the values
 	{
 		this.accno = accno;
 	}

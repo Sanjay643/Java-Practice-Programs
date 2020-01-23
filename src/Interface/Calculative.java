@@ -4,6 +4,7 @@ public interface Calculative {
 	int add();
 	int sub();
 	int mul();
+	void display();
 	
 	
 
